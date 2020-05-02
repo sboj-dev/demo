@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://sboj.io/dev/static/css/main.f0ce4ae2.chunk.css",
-    "main.js": "https://sboj.io/dev/static/js/main.6d4617e2.chunk.js",
-    "main.js.map": "https://sboj.io/dev/static/js/main.6d4617e2.chunk.js.map",
-    "runtime-main.js": "https://sboj.io/dev/static/js/runtime-main.ae2dddc9.js",
-    "runtime-main.js.map": "https://sboj.io/dev/static/js/runtime-main.ae2dddc9.js.map",
-    "static/js/2.2dfeb2af.chunk.js": "https://sboj.io/dev/static/js/2.2dfeb2af.chunk.js",
-    "static/js/2.2dfeb2af.chunk.js.map": "https://sboj.io/dev/static/js/2.2dfeb2af.chunk.js.map",
-    "index.html": "https://sboj.io/dev/index.html",
-    "precache-manifest.cef8975300214a81c882f36342892392.js": "https://sboj.io/dev/precache-manifest.cef8975300214a81c882f36342892392.js",
-    "service-worker.js": "https://sboj.io/dev/service-worker.js",
-    "static/css/main.f0ce4ae2.chunk.css.map": "https://sboj.io/dev/static/css/main.f0ce4ae2.chunk.css.map",
-    "static/js/2.2dfeb2af.chunk.js.LICENSE.txt": "https://sboj.io/dev/static/js/2.2dfeb2af.chunk.js.LICENSE.txt"
+    "main.css": "https://sboj.io/demo/static/css/main.f0ce4ae2.chunk.css",
+    "main.js": "https://sboj.io/demo/static/js/main.f41f0656.chunk.js",
+    "main.js.map": "https://sboj.io/demo/static/js/main.f41f0656.chunk.js.map",
+    "runtime-main.js": "https://sboj.io/demo/static/js/runtime-main.0b7a9eb2.js",
+    "runtime-main.js.map": "https://sboj.io/demo/static/js/runtime-main.0b7a9eb2.js.map",
+    "static/js/2.49fa2424.chunk.js": "https://sboj.io/demo/static/js/2.49fa2424.chunk.js",
+    "static/js/2.49fa2424.chunk.js.map": "https://sboj.io/demo/static/js/2.49fa2424.chunk.js.map",
+    "index.html": "https://sboj.io/demo/index.html",
+    "precache-manifest.74104fc5b7a8b8664de98f781f6dfb65.js": "https://sboj.io/demo/precache-manifest.74104fc5b7a8b8664de98f781f6dfb65.js",
+    "service-worker.js": "https://sboj.io/demo/service-worker.js",
+    "static/css/main.f0ce4ae2.chunk.css.map": "https://sboj.io/demo/static/css/main.f0ce4ae2.chunk.css.map",
+    "static/js/2.49fa2424.chunk.js.LICENSE.txt": "https://sboj.io/demo/static/js/2.49fa2424.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae2dddc9.js",
-    "static/js/2.2dfeb2af.chunk.js",
+    "static/js/runtime-main.0b7a9eb2.js",
+    "static/js/2.49fa2424.chunk.js",
     "static/css/main.f0ce4ae2.chunk.css",
-    "static/js/main.6d4617e2.chunk.js"
+    "static/js/main.f41f0656.chunk.js"
   ]
 }
