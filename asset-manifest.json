@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "https://sboj.io/demo/static/css/main.8ce2dec4.chunk.css",
-    "main.js": "https://sboj.io/demo/static/js/main.19ed3cb5.chunk.js",
-    "main.js.map": "https://sboj.io/demo/static/js/main.19ed3cb5.chunk.js.map",
+    "main.js": "https://sboj.io/demo/static/js/main.8b93ae39.chunk.js",
+    "main.js.map": "https://sboj.io/demo/static/js/main.8b93ae39.chunk.js.map",
     "runtime-main.js": "https://sboj.io/demo/static/js/runtime-main.0b7a9eb2.js",
     "runtime-main.js.map": "https://sboj.io/demo/static/js/runtime-main.0b7a9eb2.js.map",
-    "static/js/2.9bb254d7.chunk.js": "https://sboj.io/demo/static/js/2.9bb254d7.chunk.js",
-    "static/js/2.9bb254d7.chunk.js.map": "https://sboj.io/demo/static/js/2.9bb254d7.chunk.js.map",
+    "static/js/2.343b5a77.chunk.js": "https://sboj.io/demo/static/js/2.343b5a77.chunk.js",
+    "static/js/2.343b5a77.chunk.js.map": "https://sboj.io/demo/static/js/2.343b5a77.chunk.js.map",
     "index.html": "https://sboj.io/demo/index.html",
-    "precache-manifest.b537597e97206a88001be1a00689dca3.js": "https://sboj.io/demo/precache-manifest.b537597e97206a88001be1a00689dca3.js",
+    "precache-manifest.18f32a03a97d692c011c6d78076f2a61.js": "https://sboj.io/demo/precache-manifest.18f32a03a97d692c011c6d78076f2a61.js",
     "service-worker.js": "https://sboj.io/demo/service-worker.js",
     "static/css/main.8ce2dec4.chunk.css.map": "https://sboj.io/demo/static/css/main.8ce2dec4.chunk.css.map",
-    "static/js/2.9bb254d7.chunk.js.LICENSE.txt": "https://sboj.io/demo/static/js/2.9bb254d7.chunk.js.LICENSE.txt"
+    "static/js/2.343b5a77.chunk.js.LICENSE.txt": "https://sboj.io/demo/static/js/2.343b5a77.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0b7a9eb2.js",
-    "static/js/2.9bb254d7.chunk.js",
+    "static/js/2.343b5a77.chunk.js",
     "static/css/main.8ce2dec4.chunk.css",
-    "static/js/main.19ed3cb5.chunk.js"
+    "static/js/main.8b93ae39.chunk.js"
   ]
 }
